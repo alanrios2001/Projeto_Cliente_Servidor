@@ -1,0 +1,9 @@
+Lancer - 10000
+Pajeto - 29333
+Golf GTI - 10000
+Ferrari - 1000000
+Lamborghini - 1000000
+Maserati - 1000000
+Audi - 1000000
+BMW - 1000000
+Mercedes - 1000000
